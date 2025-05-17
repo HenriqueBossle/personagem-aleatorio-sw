@@ -1,0 +1,1 @@
+Grande parte do codigo presente no index.php provem dessa discussão no StackOverFlow: https://stackoverflow.com/questions/1761252/how-to-get-random-image-from-directory-using-php que foi adaptada para se adequar a minha aplicação.
